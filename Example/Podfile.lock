@@ -1,0 +1,16 @@
+PODS:
+  - JSMoreListScrollview (0.1.0)
+
+DEPENDENCIES:
+  - JSMoreListScrollview (from `../`)
+
+EXTERNAL SOURCES:
+  JSMoreListScrollview:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSMoreListScrollview: 2a943d5695d8dc6c3ad0c92d8d570b9a308ab848
+
+PODFILE CHECKSUM: dcd17cbbdd5fc8cc76682738bca49dd55eab47db
+
+COCOAPODS: 1.2.0

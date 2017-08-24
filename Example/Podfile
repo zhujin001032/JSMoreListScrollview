@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JSMoreListScrollview_Example' do
+  pod 'JSMoreListScrollview', :path => '../'
+
+  target 'JSMoreListScrollview_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

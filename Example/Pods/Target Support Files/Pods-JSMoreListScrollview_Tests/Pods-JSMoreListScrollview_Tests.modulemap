@@ -1,0 +1,6 @@
+framework module Pods_JSMoreListScrollview_Tests {
+  umbrella header "Pods-JSMoreListScrollview_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
